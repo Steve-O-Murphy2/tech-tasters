@@ -49,4 +49,4 @@ A collection of small, focused projects that teach one technology at a time.
 - Generation
 - Documentation Considerations
 
-➡️ **Repository:** https://github.com/Steve-O-Murphy2/rag-taster
+➡️ **Repository:** https://github.com/Steve-O-Murphy2/Retrieval-Augmented-Generation
